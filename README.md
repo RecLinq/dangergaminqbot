@@ -1,0 +1,2 @@
+# dangergaminqbot
+Dangergaminq BOT Altyapısı
